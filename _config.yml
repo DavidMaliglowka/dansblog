@@ -2,7 +2,11 @@
 title: "Dan's Blog"
 description: 'Dan Larimer is the '
 keyword: 'EOS, Blockchain, Block.One'
+<<<<<<< HEAD
 url: 'http://davidmaliglowka.com' # your host
+=======
+url: 'http://danlarimer.com' # your host
+>>>>>>> 252908f58c894197b2c0c0aecbfa89ae7b136188
 
 # if you don't need baseurl, you should leave this value blank.
 baseurl: ''
