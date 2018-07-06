@@ -9,8 +9,8 @@ baseurl: /dansblog
 
 # Navigation links
 nav:
-  home: '/'
-  tags: '/tags.html'
+  home: '/dansblog'
+  tags: '/dansblog/tags.html'
 
 # Footer
 footer:
@@ -19,7 +19,7 @@ footer:
 # Author
 author: 'Dan Larimer'
 nickname: 'Dan'
-bio: 'Developer'
+bio: '<i>CTO, Block.one</i> </br style="line-height: 22px"> Building crypto-economic solutions for securing life, liberty, property, and justice for all.'
 avatar: '/assets/img/dan-profile.jpg'
 
 # Search
@@ -49,10 +49,9 @@ postPatterns: 'glamorous'
 # SNS settings
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  facebook: '//weibo.com/lovecolcol'
-  twitter: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  github: '//github.com/bytemaster'
+  twitter: '//twitter.com/bytemaster7'
+  medium: '//medium.com/@bytemaster'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar

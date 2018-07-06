@@ -1,8 +1,9 @@
 ---
 layout: default
-home-title: Dan's Blog
-description: Awesome Description
+home-title: Dan Larimer's Blog
 ---
+
+<!-- description: Awesome Description -->
 
 {% include header.html %}
 
@@ -82,11 +83,12 @@ description: Awesome Description
                     {% if forloop.index > site.recommend-condition-size %}
                         {% break %}
                     {% endif %}
-                    <a href="{{ "tags.html#" | append: tag[0] | prepend: site.baseurl }}" class="tag">{{ tag[0]}}</a>
+                    <a href="{{ "tags.html#" | append: tag[0] | pretend: site.baseurl }}" class="tag">{{ tag[0]}}</a>
                 {% endfor %}
             </section>
             {% endif %}
         </div>
+    
 
         {% if site.search %}
         <div class="search-card">
