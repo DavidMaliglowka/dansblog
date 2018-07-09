@@ -39,8 +39,8 @@ home-title: Dan Larimer's Blog
                     <div class="post-tags">
                         {% if post.tags.size > 0 %}
                             {% for tag in post.tags  %}
-                            <a href={{ "tags.html#" | append: tag | pretend: site.baseurl}} class="post-tag">{{ tag }}</a>
-                            {% endfor %}
+                            <a href='{{ "/tags.html#" | append: tag | prepend: site.baseurl }}' class="post-tag">{{ tag }}</a>
+                            {% endfor %} <!--  -->
                         {% endif %}
                     </div>
                     <time class="post-date" datetime="{{ post.date | date:"%y-%m-%d" }}">{{ post.date | date_to_string }}</time>
@@ -83,12 +83,12 @@ home-title: Dan Larimer's Blog
                     {% if forloop.index > site.recommend-condition-size %}
                         {% break %}
                     {% endif %}
-                    <a href="{{ "tags.html#" | append: tag[0] | pretend: site.baseurl }}" class="tag">{{ tag[0]}}</a>
+                    <a href='{{ "/tags.html#" | append: tag[0] | prepend: site.baseurl }}' class="tag">{{ tag[0]}}</a>
                 {% endfor %}
             </section>
             {% endif %}
         </div>
-    
+
 
         {% if site.search %}
         <div class="search-card">
