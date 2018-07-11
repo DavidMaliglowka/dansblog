@@ -3,11 +3,9 @@ layout: post
 title: 'Blockchain State Representation should be Abstract and not part of Consensus'
 date: 2018-01-01
 author: Dan Larimer
-cover: ''
+cover: 'https://steemitimages.com/0x0/https://cdn-images-1.medium.com/max/800/1*tTDkRnNDVk6i4vIgC_X2qw.jpeg'
 tags: blockchain steem bitshares ethereum
 ---
-![](https://steemitimages.com/0x0/https://cdn-images-1.medium.com/max/800/1*tTDkRnNDVk6i4vIgC_X2qw.jpeg)
-
 In my last article I argued that blockchains should be designed like multiplayer games where all that is necessary is to synchronize user inputs in order to reach consensus on game state. Today I would like to make the argument that the exact form the game state takes is irrelevant so long as all players agree on the validity of new game inputs. Stated another way, I am going to argue that there is no need to reach consensus on a canonical global state that can be represented by a hash.
 
 The reason I am writing this is because many people in the blockchain ecosystem consider this controversial. Ethereum is the primary example of a message-based (input based) protocol that doesn't use UTXO but does require all block validators to agree on the precise hash of the canonical state. I consider this requirement superfluous.

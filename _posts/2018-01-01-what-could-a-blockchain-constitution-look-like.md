@@ -3,11 +3,9 @@ layout: post
 title: 'What could a blockchain Constitution look like?'
 date: 2018-01-01
 author: Dan Larimer
-cover: ''
+cover: 'https://steemitimages.com/0x0/http://dailysignal.com/wp-content/uploads/Constitution-1250x650.gif'
 tags: eos constitution blockchain
 ---
-![](https://steemitimages.com/0x0/http://dailysignal.com/wp-content/uploads/Constitution-1250x650.gif)
-
 Traditional platforms such as Facebook and Twitter have a terms of service that define acceptable behavior of users. These terms of service create a hub and spoke model where Facebook and Twitter are the hub and the users are the spokes. A decentralized platform needs to have a peer-to-peer terms of service.
 
 Blockchains could bind users together in a peer-to-peer constitution with the aim of securing user rights and enabling dispute resolution. Any two users who sign the contract by virtue of their use of the blockchain are counter-parties to one contract.

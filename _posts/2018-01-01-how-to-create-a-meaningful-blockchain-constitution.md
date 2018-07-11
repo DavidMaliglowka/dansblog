@@ -3,11 +3,9 @@ layout: post
 title: 'How to create a meaningful Blockchain Constitution'
 date: 2018-01-01
 author: Dan Larimer
-cover: ''
+cover: 'https://steemitimages.com/DQmZg6Ped48pMGW7Ue6J6FZMJZspFuiu8GkuMMZZQhnhSXo/image.png'
 tags: eos blockchain governance constitution
 ---
-![](https://steemitimages.com/DQmZg6Ped48pMGW7Ue6J6FZMJZspFuiu8GkuMMZZQhnhSXo/image.png)
-
 If you Google "Blockchain Constitution" you will discover my prior post on ["Why every Blockchain needs a Constitution"](https://steemit.com/blockchain/@dan/why-every-blockchain-needs-a-constitution) as the number 2 hit. Today I would like to expand upon why and how one would go about creating an meaningful, enforceable constitution.
 
 As those who have followed me over the years know, it is my continuing mission to discover free market solutions for securing life, liberty, and property. I started this mission because I believe it is possible to create a well ordered society without resorting to violence. When people think of anarchy, anarcho capitalism, libertarianism, and voluntarism they immediately think of all the problems that would exist without government. What do you call a system of governance that is purely voluntary and absent of violence? Can any such system have teeth?

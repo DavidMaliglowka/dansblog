@@ -3,10 +3,9 @@ layout: post
 title: 'Potential Scam Alert - Announcement on Bitcointalk'
 date: 2018-01-01
 author: Dan Larimer
-cover: ''
+cover: 'https://steemitimages.com/0x0/http://valleydailypost.com/sites/default/files/Scam-Alert_0.png'
 tags: eos scam
 ---
-![](https://steemitimages.com/0x0/http://valleydailypost.com/sites/default/files/Scam-Alert_0.png)
 
 I was recently informed of a post on bitcointalk that many people suspected might be a secret launch of a new "ICO" for EOS.
 

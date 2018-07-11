@@ -3,11 +3,9 @@ layout: post
 title: 'Join me at Consensus 2017 for the EOS Launch Party!'
 date: 2018-01-01
 author: Dan Larimer
-cover: ''
+cover: 'https://steemitimages.com/DQmYFm4GMVCrkwj3tySHXUjspDMVzJTruMQHqc5Mdjfbooz/image.png'
 tags: eos blockchain consensus nyc
 ---
-![](https://steemitimages.com/DQmYFm4GMVCrkwj3tySHXUjspDMVzJTruMQHqc5Mdjfbooz/image.png)
-
 Hello everyone,
 
 I am happy to announce the launch party and unveiling of our new project, EOS. It will take place from May 22-25th at the the Consensus 2017 event in NYC. I am eager to connect in person with fellow developers and entrepreneurs.
