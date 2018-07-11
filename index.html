@@ -7,9 +7,11 @@ home-title: Dan Larimer's Blog
 
 {% include header.html %}
 
-<div class="g-banner home-banner {{ site.theme-color | prepend: 'banner-theme-' }}" data-theme="{{ site.theme-color }}">
-    <h2>{{ page.home-title }}</h2>
-    <h3>{{ page.description }}</h3>
+<div id="particles-js" class="g-banner home-banner {{ site.theme-color | prepend: 'banner-theme-' }}" data-theme="{{ site.theme-color }}">
+  <div class="top-content">
+    <h2><span>{{ page.home-title }}</span></h2>
+    <h3><span>{{ page.description }}</span></h3>
+  </div>
     {% if page.header-img %}
     <img class="header-img" src="{{ page.header-img | prepend: site.baseurl }}" alt="">
     {% endif %}

@@ -9,7 +9,7 @@ baseurl: /dansblog
 
 # Navigation links
 nav:
-  home: '/dansblog'
+  home: '/dansblog/'
   tags: '/dansblog/tags.html'
 
 # Footer
